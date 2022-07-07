@@ -9,4 +9,5 @@ There is also one image added to the package.
 If you don't have your own images you can use this one to check if everything is working.
 Outside of this package are also added two other .ipynb files.
 The "The_model.ipynb" file contain code that I used to create model.h5.
-The "Evaluation.ipynb" file contains evaluation of model with graphs and short comments.
+It also contains some evaluation of the model with graphs and comments.
+Please use it as a colab or jupyter notebook.
