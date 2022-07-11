@@ -7,9 +7,10 @@ If you run this file you will be asked to enter a path to your image.
 Please remember to check if you entered a correct path.
 There is also one image added to the package.
 If you don't have your own images you can use this one to check if everything is working.
+The code uses keras.preprocessing 1.1.2 library and python 3.8 so please make sure if you have them.
 Outside of this package are also added two other .ipynb files.
 The "The_model.ipynb" file contain code that I used to create model.h5.
-It should be considered just as a readible file just to get an idea how the model was done and what the metrics are.
-It contains the evaluation of the model with graphs and comments. 
-It offers the option to predict your own data but it requiers some path changes so it is preferable to use the package for that purpose.
+It should be considered just as a readable file just to get an idea how the model was done and what the metrics are.
+It contains the evaluation of the model with graphs and comments.
+It offers the option to predict your own data but it requires some path changes so it is preferable to use the package for that purpose.
 Please use it as a colab or jupyter notebook or just read it as it is in the repository.
